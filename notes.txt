@@ -1,2 +1,2 @@
 Code
-javascript:(function(){var script=document.createElement('script');script.setAttribute('src','<source link>');document.body.appendChild(script);}());
+javascript:(function(){var script=document.createElement('script');script.setAttribute('src','https://raw.githubusercontent.com/solopaw/CookieClickerCheat/base/cheat.js');document.body.appendChild(script);}());
