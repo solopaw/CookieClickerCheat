@@ -1,0 +1,2 @@
+Code
+javascript:(function(){var script=document.createElement('script');script.setAttribute('src','<source link>');document.body.appendChild(script);}());
